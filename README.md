@@ -698,25 +698,14 @@ OpenAI
 
 # 🐍 Contribution Snake ⚙️
 
-After enabling GitHub Actions, paste this:
-
-```html
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/adityabhadauriawork/adityabhadauriawork/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/adityabhadauriawork/adityabhadauriawork/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 ```
 
 ---
 
-# 📊 GitHub Metrics ⚙️
 
-After enabling GitHub Actions
-
-```html
-<img src="/github-metrics.svg"/>
-```
 
 ---
 
