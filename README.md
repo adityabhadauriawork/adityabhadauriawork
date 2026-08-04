@@ -143,7 +143,7 @@ JWT auth, role-based access, protected routes.
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=adityabhadauriawork&theme=algolia&no-frame=true&row=1&column=6&t=1"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=adityabhadauriawork&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
