@@ -1,0 +1,64 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="mglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F5FF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#00F5FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="150" cy="150" r="140" fill="url(#mglow)"/>
+
+  <text x="26" y="65" font-family="monospace" font-size="20" fill="#00F5FF" opacity="0.5">&lt;/&gt;
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="238" y="245" font-family="monospace" font-size="18" fill="#B39DDB" opacity="0.5">{ }
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 10; 0 0" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text x="235" y="55" font-family="monospace" font-size="14" fill="#00F5FF" opacity="0.4">01
+    <animateTransform attributeName="transform" type="translate" values="0 0; -6 8; 0 0" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -8; 0 0" dur="3s" repeatCount="indefinite"/>
+
+    <polygon points="110,90 125,48 136,95" fill="#2d1b69"/>
+    <polygon points="190,90 175,48 164,95" fill="#2d1b69"/>
+
+    <ellipse cx="150" cy="170" rx="70" ry="80" fill="#302b63" stroke="#00F5FF" stroke-width="2"/>
+    <ellipse cx="150" cy="188" rx="44" ry="54" fill="#1a1440"/>
+
+    <ellipse cx="95" cy="180" rx="17" ry="34" fill="#241d52"/>
+    <ellipse cx="205" cy="180" rx="17" ry="34" fill="#241d52"/>
+
+    <circle cx="125" cy="150" r="26" fill="#ffffff"/>
+    <circle cx="175" cy="150" r="26" fill="#ffffff"/>
+    <circle cx="125" cy="150" r="12" fill="#0f0c29"/>
+    <circle cx="175" cy="150" r="12" fill="#0f0c29"/>
+    <circle cx="128" cy="146" r="3" fill="#ffffff"/>
+    <circle cx="178" cy="146" r="3" fill="#ffffff"/>
+
+    <rect x="99" y="124" width="52" height="0" fill="#302b63">
+      <animate attributeName="height" values="0;0;30;0;0" keyTimes="0;0.88;0.94;1;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="149" y="124" width="52" height="0" fill="#302b63">
+      <animate attributeName="height" values="0;0;30;0;0" keyTimes="0;0.88;0.94;1;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <polygon points="140,166 160,166 150,181" fill="#FFB020"/>
+  </g>
+
+  <g transform="translate(105,236)">
+    <rect x="-6" y="55" width="102" height="7" rx="3" fill="#2d1b69"/>
+    <rect x="0" y="0" width="90" height="55" rx="4" fill="#1a1440" stroke="#00F5FF" stroke-width="2"/>
+    <rect x="6" y="6" width="78" height="40" fill="#0a0e27"/>
+    <rect x="12" y="15" width="0" height="4" fill="#00F5FF">
+      <animate attributeName="width" values="0;55;55;0;0" keyTimes="0;0.35;0.7;0.85;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="12" y="25" width="0" height="4" fill="#B39DDB">
+      <animate attributeName="width" values="0;0;35;35;0" keyTimes="0;0.2;0.55;0.8;1" dur="3.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="12" y="35" width="0" height="4" fill="#7dd3fc">
+      <animate attributeName="width" values="0;0;0;42;0" keyTimes="0;0.3;0.5;0.8;1" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
