@@ -143,7 +143,9 @@ JWT auth, role-based access, protected routes.
 
 <br>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=adityabhadauriawork&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://img.shields.io/badge/🏆_AIR_3-National_Samsung_AI_Contest-00F5FF?style=for-the-badge&labelColor=0a0e27&color=0a0e27"/>
+<img src="https://img.shields.io/badge/💯_400+-LeetCode_Problems_Solved-B39DDB?style=for-the-badge&labelColor=0a0e27&color=0a0e27"/>
+<img src="https://img.shields.io/badge/👨‍💼_Team_Captain-Engineering_Team-00F5FF?style=for-the-badge&labelColor=0a0e27&color=0a0e27"/>
 
 </div>
 
