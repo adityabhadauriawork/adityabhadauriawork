@@ -3,7 +3,7 @@
 <!-- Custom animated banner (see setup note below) -->
 <img src="https://raw.githubusercontent.com/adityabhadauriawork/adityabhadauriawork/main/assets/banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=ML+Engineering+Intern+%40+FlyRank+AI+%F0%9F%9A%80;Building+AutoMind+Enterprise+%F0%9F%A7%A0;400%2B+DSA+Problems+Solved+%F0%9F%A7%A9;Turning+coffee+into+code+%E2%98%95"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=ML+Engineering+Intern+%40+FlyRank+AI+%F0%9F%9A%80;Software+Engineering+Intern+%40+Prodigy+InfoTech+%F0%9F%92%BB;Building+AutoMind+Enterprise+%F0%9F%A7%A0;400%2B+DSA+Problems+Solved+%F0%9F%A7%A9;Turning+coffee+into+code+%E2%98%95"/>
 
 <br>
 
