@@ -10,7 +10,7 @@
 <a href="https://github.com/adityabhadauriawork"><img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=00F5FF"/></a>
 <a href="https://www.linkedin.com/in/aditya-pratap-singh-bhadauria-a20198343/"><img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/></a>
 <a href="mailto:adityabhadauriawork@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=00F5FF"/></a>
-<a href="https://automind-enterprise.streamlit.app"><img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=00F5FF"/></a>
+<a href="https://personal-portfolio-ruddy-psi-24.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=00F5FF"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0e27,50:00F5FF,100:0a0e27"/>
 
